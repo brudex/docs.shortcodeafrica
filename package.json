@@ -1,7 +1,7 @@
 {
   "name": "docs.shortcodeafrica",
   "version": "1.0.0",
-  "description": "documentation for shortcodeafrica",
+  "description": "Documentation site for shortcodeafrica",
   "license": "MIT",
   "type": "module",
   "scripts": {
