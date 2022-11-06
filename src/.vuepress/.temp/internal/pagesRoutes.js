@@ -1,5 +1,5 @@
 export const pagesRoutes = [
-  ["v-8daa1a0e","/",{"t":"Project home","i":"home"},["/index.html","/README.md"]],
+  ["v-8daa1a0e","/",{"t":"Short Code Africa Docs","i":"home"},["/index.html","/README.md"]],
   ["v-2e3eac9e","/slides.html",{"t":"Slide page","i":"slides"},["/slides","/slides.md"]],
   ["v-1473bf53","/demo/",{"t":"Features Demo","i":"discover"},["/demo/index.html","/demo/README.md"]],
   ["v-4e65ec78","/demo/disable.html",{"t":"Disabling layout and features","i":"config"},["/demo/disable","/demo/disable.md"]],
