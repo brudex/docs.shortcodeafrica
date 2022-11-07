@@ -9,7 +9,6 @@ actions:
   - text: How to Use 💡
     link: /demo/
     type: primary
-
   - text: Docs
     link: /guide/
 
