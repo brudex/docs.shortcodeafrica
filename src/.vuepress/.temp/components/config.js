@@ -1,10 +1,10 @@
 import { defineClientConfig } from "@vuepress/client";
 import { h } from "vue";
 
-import { useStyleTag } from "/Users/nanasafo/developer/nodejs/ussdmarket/docs.shortcodeafrica/node_modules/vuepress-plugin-components/lib/client/vueuse.js";
-import Badge from "/Users/nanasafo/developer/nodejs/ussdmarket/docs.shortcodeafrica/node_modules/vuepress-plugin-components/lib/client/components/Badge.js";
-import FontIcon from "/Users/nanasafo/developer/nodejs/ussdmarket/docs.shortcodeafrica/node_modules/vuepress-plugin-components/lib/client/components/FontIcon.js";
-import BackToTop from "/Users/nanasafo/developer/nodejs/ussdmarket/docs.shortcodeafrica/node_modules/vuepress-plugin-components/lib/client/components/BackToTop.js";
+import { useStyleTag } from "/home/codehero/Documents/vuePressDocs/docs.shortcodeafrica/node_modules/vuepress-plugin-components/lib/client/vueuse.js";
+import Badge from "/home/codehero/Documents/vuePressDocs/docs.shortcodeafrica/node_modules/vuepress-plugin-components/lib/client/components/Badge.js";
+import FontIcon from "/home/codehero/Documents/vuePressDocs/docs.shortcodeafrica/node_modules/vuepress-plugin-components/lib/client/components/FontIcon.js";
+import BackToTop from "/home/codehero/Documents/vuePressDocs/docs.shortcodeafrica/node_modules/vuepress-plugin-components/lib/client/components/BackToTop.js";
 
 
 export default defineClientConfig({

@@ -5,20 +5,21 @@ import { enSidebar, zhSidebar } from "./sidebar/index.js";
 export default hopeTheme({
   hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
 
-  author: {
-    name: "Mr.Hope",
-    url: "https://mrhope.site",
-  },
+  // author: {
+  //   name: "Mr.Hope",
+  //   url: "https://mrhope.site",
+  // },
 
   iconAssets: "iconfont",
 
-  logo: "/logo.svg",
+  logo: "/short_code_logo1.png",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
   docsDir: "demo/theme-docs/src",
 
-  pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
+  pageInfo: ["Original", "Date", "Category", "Tag"],
+  // , "ReadingTime","Author"
 
   locales: {
     "/": {
