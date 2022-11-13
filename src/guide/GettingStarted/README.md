@@ -4,5 +4,4 @@ title: Getting Started
 
 ## Sign Up
 
-Feature details here.
-everyting goes here
+First of all, in order to have access to shortcode Africa dashboard, you need an account. Signing up is as simple as any signup page you have visited before. It requires a full name, a valid email address, country, phone number, company name, and a strong password and last but not least, you have to read the "terms and conditions" and accept to signup successful.

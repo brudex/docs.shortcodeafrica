@@ -1,6 +1,8 @@
 ---
 title: Guide
 icon: creative
+prev: false
+next: ./GettingStarted
 ---
 
 ## Introduction
