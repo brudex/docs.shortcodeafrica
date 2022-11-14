@@ -6,7 +6,7 @@ export const pagesRoutes = [
   ["v-c151bf32","/demo/encrypt.html",{"t":"Encryption Article","i":"lock"},["/demo/encrypt","/demo/encrypt.md"]],
   ["v-438ffe52","/demo/markdown.html",{"t":"Markdown Enhance","i":"markdown"},["/demo/markdown","/demo/markdown.md"]],
   ["v-6e19edb7","/demo/page.html",{"t":"Page Config","i":"page"},["/demo/page","/demo/page.md"]],
-  ["v-fffb8e28","/guide/",{"t":"Guide","i":"creative"},["/guide/index.html","/guide/README.md"]],
-  ["v-9b97feb4","/guide/GettingStarted/",{"t":"Getting Started"},["/guide/GettingStarted/index.html","/guide/GettingStarted/README.md"]],
+  ["v-fd0ba460","/guide/GettingStarted.html",{"t":"Getting Started"},["/guide/GettingStarted","/guide/GettingStarted.md"]],
+  ["v-1c7b2593","/guide/introduction.html",{"t":"Introduction"},["/guide/introduction","/guide/introduction.md"]],
   ["v-3706649a","/404.html",{"t":""},["/404"]],
 ]

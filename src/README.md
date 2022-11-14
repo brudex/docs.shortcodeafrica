@@ -2,8 +2,8 @@
 home: true
 icon: home
 title: Short Code Africa Docs
-heroImage: /short_code_logo1.png
-heroImageDark: /short_code_logo2.png
+heroImage: /logo_light.png
+heroImageDark: /logo_dark.png
 heroText: Short Code Africa Docs
 tagline: Powering African Innovation
 actions:

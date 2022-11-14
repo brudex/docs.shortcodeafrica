@@ -11,11 +11,18 @@ export const enSidebar = sidebar({
     //   children: "structure",
     // },
     {
-      text: "Docs",
+      text: "Guide",
       icon: "note",
       prefix: "guide/",
-      children: "structure",
+      children: ["/guide/introduction.md", "/guide/GettingStarted.md"],
     },
+    // {
+    //   text: "Getting Started",
+    //   icon: "discover",
+    //   prefix: "gettingstarted/",
+    //   link: "gettingstarted/",
+    //   children: "structure",
+    // },
     "slides",
   ],
 });

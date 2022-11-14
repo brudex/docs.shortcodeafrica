@@ -13,10 +13,10 @@ export const pagesData = {
   "v-438ffe52": () => import(/* webpackChunkName: "v-438ffe52" */"/home/codehero/Documents/vuePressDocs/docs.shortcodeafrica/src/.vuepress/.temp/pages/demo/markdown.html.js").then(({ data }) => data),
   // path: /demo/page.html
   "v-6e19edb7": () => import(/* webpackChunkName: "v-6e19edb7" */"/home/codehero/Documents/vuePressDocs/docs.shortcodeafrica/src/.vuepress/.temp/pages/demo/page.html.js").then(({ data }) => data),
-  // path: /guide/
-  "v-fffb8e28": () => import(/* webpackChunkName: "v-fffb8e28" */"/home/codehero/Documents/vuePressDocs/docs.shortcodeafrica/src/.vuepress/.temp/pages/guide/index.html.js").then(({ data }) => data),
-  // path: /guide/GettingStarted/
-  "v-9b97feb4": () => import(/* webpackChunkName: "v-9b97feb4" */"/home/codehero/Documents/vuePressDocs/docs.shortcodeafrica/src/.vuepress/.temp/pages/guide/GettingStarted/index.html.js").then(({ data }) => data),
+  // path: /guide/GettingStarted.html
+  "v-fd0ba460": () => import(/* webpackChunkName: "v-fd0ba460" */"/home/codehero/Documents/vuePressDocs/docs.shortcodeafrica/src/.vuepress/.temp/pages/guide/GettingStarted.html.js").then(({ data }) => data),
+  // path: /guide/introduction.html
+  "v-1c7b2593": () => import(/* webpackChunkName: "v-1c7b2593" */"/home/codehero/Documents/vuePressDocs/docs.shortcodeafrica/src/.vuepress/.temp/pages/guide/introduction.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"/home/codehero/Documents/vuePressDocs/docs.shortcodeafrica/src/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
 }

@@ -1,9 +1,11 @@
 ---
-title: Guide
-icon: creative
+title: Introduction
+# icon: creative
 prev: false
 next: ./GettingStarted
 ---
+
+<!-- [Config Reference > markdown.links](/guide/introduction.md#how-it-works) -->
 
 ## Introduction
 

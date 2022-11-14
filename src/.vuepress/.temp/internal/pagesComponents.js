@@ -15,10 +15,10 @@ export const pagesComponents = {
   "v-438ffe52": defineAsyncComponent(() => import(/* webpackChunkName: "v-438ffe52" */"/home/codehero/Documents/vuePressDocs/docs.shortcodeafrica/src/.vuepress/.temp/pages/demo/markdown.html.vue")),
   // path: /demo/page.html
   "v-6e19edb7": defineAsyncComponent(() => import(/* webpackChunkName: "v-6e19edb7" */"/home/codehero/Documents/vuePressDocs/docs.shortcodeafrica/src/.vuepress/.temp/pages/demo/page.html.vue")),
-  // path: /guide/
-  "v-fffb8e28": defineAsyncComponent(() => import(/* webpackChunkName: "v-fffb8e28" */"/home/codehero/Documents/vuePressDocs/docs.shortcodeafrica/src/.vuepress/.temp/pages/guide/index.html.vue")),
-  // path: /guide/GettingStarted/
-  "v-9b97feb4": defineAsyncComponent(() => import(/* webpackChunkName: "v-9b97feb4" */"/home/codehero/Documents/vuePressDocs/docs.shortcodeafrica/src/.vuepress/.temp/pages/guide/GettingStarted/index.html.vue")),
+  // path: /guide/GettingStarted.html
+  "v-fd0ba460": defineAsyncComponent(() => import(/* webpackChunkName: "v-fd0ba460" */"/home/codehero/Documents/vuePressDocs/docs.shortcodeafrica/src/.vuepress/.temp/pages/guide/GettingStarted.html.vue")),
+  // path: /guide/introduction.html
+  "v-1c7b2593": defineAsyncComponent(() => import(/* webpackChunkName: "v-1c7b2593" */"/home/codehero/Documents/vuePressDocs/docs.shortcodeafrica/src/.vuepress/.temp/pages/guide/introduction.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"/home/codehero/Documents/vuePressDocs/docs.shortcodeafrica/src/.vuepress/.temp/pages/404.html.vue")),
 }

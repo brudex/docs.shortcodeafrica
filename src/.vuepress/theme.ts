@@ -12,7 +12,8 @@ export default hopeTheme({
 
   iconAssets: "iconfont",
 
-  logo: "/short_code_logo1.png",
+  logo: "/logo_light.png",
+  logoDark: "/logo_dark.png",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
