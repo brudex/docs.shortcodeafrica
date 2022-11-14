@@ -7,7 +7,7 @@ next: ./GettingStarted
 
 <!-- [Config Reference > markdown.links](/guide/introduction.md#how-it-works) -->
 
-## Introduction
+<!-- ## Introduction -->
 
 Shortcode Africa empowers you to build ussd apps, accept payments and send sms in a few steps. The platform is a simple but sophisticated USSD cloud solution. Your application can be live within minutes of signing up.
 You can also connnect to external APIs and databases from within your application. You can select a shortcode of your choice and make your solution live instantly.
