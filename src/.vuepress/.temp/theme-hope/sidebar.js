@@ -1,1 +1,1 @@
-export const sidebarData = {"/zh/demo/":[],"/zh/guide/":[]};
+export const sidebarData = {};
