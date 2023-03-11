@@ -96,7 +96,6 @@ export const enSidebar = sidebar({
       icon: "config",
       prefix: "recipes/",
       children: ["/guide/howtos/retrieveactionresult.md", "/guide/howtos/retrievesessionvar.md"],
-
     },
     "",
   ],

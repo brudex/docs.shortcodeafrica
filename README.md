@@ -1,0 +1,56 @@
+## Documentation struction
+- Introduction
+    - About ShortCode Africa
+    - Create an account
+- Quick Start
+    - Signup
+    - Create an app
+    - Add menus
+    - Menu navigation
+    - Walkthrough building your first USSD app
+    - Running your app in the emulator
+- Menus and Navigation
+    - Adding menus
+    - Naming your menus
+    - Setting the next menu to navigate based on input condition
+    - Retrieving input entered in previous menu
+- Inbuilt Variables & Methods
+    - Session variables
+    - Menu variables
+    - Action variables
+    - Referencing a variable in a menu
+    - Referencing an action result in a menu
+- Actions
+    - Calling a restapi
+    - Executing javascript code
+    - Database calls
+    - Sending sms 
+- Videos
+- Moving your app to production
+    - Getting a USSD shortcode for your app
+    - Connecting your app to a shortcode provider
+    - Deploying in your own environment
+- ShortCode Providers
+    - Ghana
+    - Nigeria
+    - Kenya
+    - Eswatini
+- Walkthrough
+    - Building the MTN mobile money app
+    - Building Zeepay remittance app
+    - Building eTranzact *389#
+    - Building a sample loan app
+    - Building the MPESA app
+    - Building the Mpesa loan app
+    - Building a sample USSD banking app
+- Code Recipes
+    - Check if user is registered on first dial
+    - Set a session variable and retrieve it javascript
+    - Retrieve an action result in code
+    - Branching to a different menu from code
+    - Getting the entered value for a menu
+- How Tos
+    - Retrieve a session variable in menu text
+    - Retrieve an action result in menu text
+    - Retrieve json data as rest api payload
+    - 
