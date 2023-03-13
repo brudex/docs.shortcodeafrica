@@ -16,9 +16,9 @@ next: ./actions
     - On the pop up Menu. click on navigation next to Menu tab 
     ![navigation][def2]
 
-    - click on blue button with the + symbol "image" to start implementing the Navigation process 
+    - click on blue button with the + symbol to start implementing the Navigation process 
     ![plus][def3] 
-    - Click on "Save" after listing all your Prefer list of Menu to be Display "image"
+    - Click on "Save" after initiating all your Prefer navigation corresponds
 
 [def]: /assets/images/Open_Designer.png
 [def1]: /assets/images/plus.png
