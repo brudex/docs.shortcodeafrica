@@ -28,7 +28,12 @@ next: ./actions
 
 ### 5. on the Menu Space provided
 
-- Type in your prefer list for Menu
+ Add your menu options. For example, 
+Welcome to ....
+Please Reply with
+1. Register
+2. My Account
+3. Make inquiries
 
 ![Step 5 screenshot](https://images.tango.us/workflows/1c30cc48-7809-4486-a3fc-142bdb3ccc54/steps/7d59b404-c116-4e60-b350-bd589ea6a4c9/75d4ebee-4963-40d8-9314-278309d1a20a.png?crop=focalpoint&fit=crop&fp-x=0.6170&fp-y=0.3956&fp-z=1.4637&w=1200&blend-align=bottom&blend-mode=normal&blend-x)
 
