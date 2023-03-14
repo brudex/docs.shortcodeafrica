@@ -5,53 +5,45 @@ prev: ./walkthroughfirstapp
 next: false
 ---
 
-
-
-# [Create An App](https://app.tango.us/app/workflow/b15fc667-e22a-4ff2-bfcf-386e490e7ff8?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
-
-__Creation Date:__ March 13, 2023  
-__Created By:__ Nana Akoto  
-[View most recent version on Tango](https://app.tango.us/app/workflow/b15fc667-e22a-4ff2-bfcf-386e490e7ff8?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
 ***
 
-### 1. [Go to shortcodeafrica.com](https://shortcodeafrica.com/get-started)
+### 1. [login into your Account](https://shortcodeafrica.com/get-started)
 
 
 ### 2. Click on New App
-![Step 2 screenshot](https://images.tango.us/workflows/b15fc667-e22a-4ff2-bfcf-386e490e7ff8/steps/b158b04c-be08-416a-92e8-2434ca6a2d36/d54dcb26-1c45-447b-bcd8-3a9da0a894f5.png?crop=focalpoint&fit=crop&fp-x=0.8732&fp-y=0.3217&fp-z=2.5909&w=1200&blend-align=bottom&blend-mode=normal&blend-x=800&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
+![Step 2 screenshot](https://images.tango.us/workflows/cf35a964-a821-49e0-8ef2-3c905b62a5f8/steps/3f968909-4ba9-4b88-9531-1b15840c921d/b0b27a5a-10ae-4da0-b2b5-71cdee56a16f.png?crop=focalpoint&fit=crop&fp-x=0.8227&fp-y=0.3464&fp-z=2.5575&w=1200&blend-align=bottom&blend-mode=normal&blend-x)
 
 
-### 3. Type "New Test App"
-![Step 3 screenshot](https://images.tango.us/workflows/b15fc667-e22a-4ff2-bfcf-386e490e7ff8/steps/8f81a487-5565-4c5b-adfc-6325ee4c5cc9/fa0b8fe3-770a-412a-9b3e-319310adfaa1.png?crop=focalpoint&fit=crop&fp-x=0.7083&fp-y=0.2699&fp-z=1.8372&w=1200&blend-align=bottom&blend-mode=normal&blend-x=800&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
+### 3. Click on App Name…
+![Step 3 screenshot](https://images.tango.us/workflows/cf35a964-a821-49e0-8ef2-3c905b62a5f8/steps/e3944956-fc0b-43fe-a1ea-ab0da13b6f0c/79ba3401-eb8c-4591-ad6d-da30310caa53.png?crop=focalpoint&fit=crop&fp-x=0.5859&fp-y=0.6868&fp-z=1.2805&w=1200&blend-align=bottom&blend-mode=normal&blend-x)
 
 
-### 4. Type "new test app description"
-![Step 4 screenshot](https://images.tango.us/workflows/b15fc667-e22a-4ff2-bfcf-386e490e7ff8/steps/642ca2fd-edb2-4e7e-bff7-efb91ab99bd5/d0deb3d5-959b-4f42-8ec7-5cec92ff6644.png?crop=focalpoint&fit=crop&fp-x=0.7083&fp-y=0.4178&fp-z=1.8372&w=1200&blend-align=bottom&blend-mode=normal&blend-x=800&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
+### 4. Click on Description
+    Describe your Application with few words
+![Step 4 screenshot](https://images.tango.us/workflows/cf35a964-a821-49e0-8ef2-3c905b62a5f8/steps/56f11c30-8120-418b-b109-6678ad415f53/cacc627e-0ec4-4110-8805-279baf9969a7.png?crop=focalpoint&fit=crop&fp-x=0.5859&fp-y=0.4272&fp-z=1.2564&w=1200&blend-align=bottom&blend-mode=normal&blend-x)
 
 
-### 5. Select Ghana
-![Step 5 screenshot](https://images.tango.us/workflows/b15fc667-e22a-4ff2-bfcf-386e490e7ff8/steps/68996af8-6e57-4e1a-94e6-929059df7d0e/897c7e8b-6c61-4390-819e-868ab9311940.png?crop=focalpoint&fit=crop&fp-x=0.7083&fp-y=0.5335&fp-z=1.8372&w=1200&blend-align=bottom&blend-mode=normal&blend-x=800&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
+### 5. Click on Country …
+![Step 5 screenshot](https://images.tango.us/workflows/cf35a964-a821-49e0-8ef2-3c905b62a5f8/steps/fb4130f4-6c5c-49d2-bd8d-0a1ee9f7dc1c/7f49bec4-7568-4ae7-a311-006faaa03955.png?crop=focalpoint&fit=crop&fp-x=0.5859&fp-y=0.5664&fp-z=1.2564&w=1200&blend-align=bottom&blend-mode=normal&blend-x)
 
 
-### 6. Click on e.g. *250*777# 
-![Step 6 screenshot](https://images.tango.us/workflows/b15fc667-e22a-4ff2-bfcf-386e490e7ff8/steps/f2097edb-6d14-4e4e-9f7f-2e1a33f434e1/e2d0e0b5-6442-4c2f-9427-aeb50605138c.png?crop=focalpoint&fit=crop&fp-x=0.7083&fp-y=0.7813&fp-z=1.8372&w=1200&blend-align=bottom&blend-mode=normal&blend-x=800&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
+### 6. Click on to Select your Country.
+
+![Step 6 screenshot](https://images.tango.us/workflows/cf35a964-a821-49e0-8ef2-3c905b62a5f8/steps/bc3b254d-af65-46cf-9420-259705c8358b/98dd2423-0303-4cd8-8820-2c5983690c0d.png?crop=focalpoint&fit=crop&fp-x=0.7120&fp-y=0.5600&fp-z=1.8391&w=1200&blend-align=bottom&blend-mode=normal&blend-x)
 
 
-### 7. Click on Shortcode contains data to extract for processing e.g. *900*{merchantCode}# means if user dials *900*12345# 12345 will be extracted into a variable for processing
-![Step 7 screenshot](https://images.tango.us/workflows/b15fc667-e22a-4ff2-bfcf-386e490e7ff8/steps/aba9a58f-ade4-467c-a49c-11877f04870c/a48faafa-79f8-49bb-b607-0d1802be0f5f.png?crop=focalpoint&fit=crop&fp-x=0.6151&fp-y=0.6985&fp-z=3.0133&w=1200&blend-align=bottom&blend-mode=normal&blend-x=800&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
+
+### 7. Click on How do you want to connect this app…
+![Step 2 screenshot](https://images.tango.us/workflows/eb88b44c-af1a-4419-bcd2-ce8bea0a0daf/steps/3c993d42-243a-4a1e-8167-2ee6de79bc9e/95e83206-f2d2-451c-bacc-c5867e43fe78.png?crop=focalpoint&fit=crop&fp-x=0.5859&fp-y=0.6124&fp-z=1.2564&w=1200&blend-align=bottom&blend-mode=normal&blend-x)
 
 
-### 8. Type "*888#"
-![Step 8 screenshot](https://images.tango.us/workflows/b15fc667-e22a-4ff2-bfcf-386e490e7ff8/steps/351ab64c-a489-43c9-a6ca-78679fe83a69/e0e6f4c1-59e5-4981-9d23-352f54b696da.png?crop=focalpoint&fit=crop&fp-x=0.7083&fp-y=0.7813&fp-z=1.8372&w=1200&blend-align=bottom&blend-mode=normal&blend-x=800&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
+### 8. Click on th We will generate a url to give to your provider for forwarding traffic.
+![Step 8 screenshot](https://images.tango.us/workflows/cf35a964-a821-49e0-8ef2-3c905b62a5f8/steps/1ca7b3aa-ae9c-424c-991c-57eb0a9fb7e8/6df3e09e-4b73-48e5-bec6-ab4e64c874d7.png?crop=focalpoint&fit=crop&fp-x=0.7120&fp-y=0.5616&fp-z=1.8391&w=1200&blend-align=bottom&blend-mode=normal&blend-x)
 
 
-### 9. Click on Create App
-![Step 9 screenshot](https://images.tango.us/workflows/b15fc667-e22a-4ff2-bfcf-386e490e7ff8/steps/89ba5a80-89a3-49b9-9ba7-8f398bb5d3d3/4421a860-52d2-47a6-968d-31654bfa57ba.png?crop=focalpoint&fit=crop&fp-x=0.9178&fp-y=0.8938&fp-z=4.0000&w=1200&blend-align=bottom&blend-mode=normal&blend-x=800&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
+### 9. Click on Is Template Formated
+![Step 9 screenshot](https://images.tango.us/workflows/cf35a964-a821-49e0-8ef2-3c905b62a5f8/steps/7eb67f01-2d8c-4993-a034-8f63e328c389/5e84b49c-ffc8-42b5-b854-6579623dfa40.png?crop=focalpoint&fit=crop&fp-x=0.5335&fp-y=0.6852&fp-z=2.2005&w=1200&blend-align=bottom&blend-mode=normal&blend-x)
 
 
-### 10. Click on Open Designer
-![Step 10 screenshot](https://images.tango.us/workflows/b15fc667-e22a-4ff2-bfcf-386e490e7ff8/steps/a8151e34-0ae6-40eb-a641-2ab4afe1c984/75ac84f7-8b03-4235-ab66-3d0346ffe88d.png?crop=focalpoint&fit=crop&fp-x=0.7442&fp-y=0.8910&fp-z=3.5829&w=1200&blend-align=bottom&blend-mode=normal&blend-x=800&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
-
-
-***
-_[This Workflow was created with Tango](https://app.tango.us/app/workflow/b15fc667-e22a-4ff2-bfcf-386e490e7ff8?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)_
+### 10. Click on Create App
+![Step 10 screenshot](https://images.tango.us/workflows/cf35a964-a821-49e0-8ef2-3c905b62a5f8/steps/8bd0a96f-5f48-4f12-a8fa-a20318ca550e/ad096afb-42a9-4d7b-9c37-607d96e7534a.png?crop=focalpoint&fit=crop&fp-x=0.8885&fp-y=0.9010&fp-z=4.0000&w=1200&blend-align=bottom&blend-mode=normal&blend-x)
