@@ -12,7 +12,7 @@ export const enSidebar = sidebar({
       text: "Quick Start",
       icon: "note",
       prefix: "quickstart/",
-      children: ["/guide/quickstart/menus", 
+      children: ["/guide/quickstart/createapp","/guide/quickstart/menus", 
       "/guide/quickstart/navigation",
       "/guide/quickstart/walkthroughfirstapp","/guide/quickstart/emulator"
     ], 
