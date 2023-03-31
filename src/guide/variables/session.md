@@ -9,6 +9,26 @@ next: ./menu
 
 ---
 
+<table>
+  <tr>
+    <th>Variables</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>session.mobile</td>
+     <td>Mobile number of dialer</td>
+  </tr>
+  <tr>
+     <td>session.network</td>
+    <td>Network of dialer</td>
+  
+  </tr>
+  <tr>
+    <td>Session ID</td>
+     <td>session.sessionid</td>
+  </tr>
+</table>
+
 ##### 1. Clicking on the icon circled in orange below shows a modal of session variables.
 
 ![Step 1 screenshot](https://images.tango.us/workflows/2ff59c95-56de-4c36-8de6-972b20cfb30b/steps/3a7ff5c4-636e-4159-9835-716c93a022e1/2b1d4af0-ad79-4217-974c-424d95aa42a3.png?crop=focalpoint&fit=crop&fp-x=0.6130&fp-y=0.4579&fp-z=1.1027&w=1200&blend-align=bottom&blend-mode=normal&blend-x=800&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
