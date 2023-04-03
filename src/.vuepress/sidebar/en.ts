@@ -32,7 +32,6 @@ export const enSidebar = sidebar({
       prefix: "variables/",
       children: ["/guide/variables/session", 
       "/guide/variables/menu", 
-      "/guide/variables/actions", 
       "/guide/variables/variableref", 
       "/guide/variables/actionresultref"
     ],
