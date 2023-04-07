@@ -54,10 +54,13 @@ export const enSidebar = sidebar({
       children: ["/guide/videos"],
     },
     {
-      text: "ShortCode Providers",
+      text: "Get URL link",
       icon: "note",
       prefix: "providers/",
-      children: ["/guide/providers"],
+      children: ["/guide/providers/url.md",
+     
+    ],
+    
     },
     {
       text: "Going Live with your app",
