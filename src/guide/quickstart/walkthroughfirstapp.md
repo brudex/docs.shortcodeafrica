@@ -13,7 +13,6 @@ next: ./emulator
 ![Step 2](/assets/images/walkthr/Step_1screenshot.png)
 
 
-
 ### 3. Click on New App
 
 ![Step 3 screenshot](/assets/images/walkthr/Step_2_screenshot.png)
@@ -136,8 +135,8 @@ Please Reply with
 ![Step 32 screenshot](/assets/images/walkthr/Step_25_screenshot.png)
 
 
-### 28. Click on Deploy 
-![Step 33 screenshot](/assets/images/walkthr/Step_26_screenshot.png)
+<!-- ### 28. Click on Deploy 
+![Step 33 screenshot](/assets/images/walkthr/Step_26_screenshot.png) -->
 
 
 ### 29. Click on Emulator

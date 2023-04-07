@@ -1,6 +1,6 @@
 ---
 title: Retrieve Menu Input
-prev: false
+prev: ./menunavigation
 # next: ./walkthroughfirstapp
 ---
 
