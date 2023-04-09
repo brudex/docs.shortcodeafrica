@@ -1,7 +1,7 @@
 ---
 title: Create An App
 # icon: creative
-prev: ./GettingStarted
+prev: ./introduction
 next: ./menus
 ---
 
