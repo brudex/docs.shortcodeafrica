@@ -1,12 +1,11 @@
 ---
 title: Create An App
 # icon: creative
-prev: ./walkthroughfirstapp
-next: false
+prev: ./introduction
+next: ./menus
 ---
 
 ***
-
 ### 1. [login into your Account](https://shortcodeafrica.com/get-started)
 
 

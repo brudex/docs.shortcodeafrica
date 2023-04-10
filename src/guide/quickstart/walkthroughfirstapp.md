@@ -1,7 +1,7 @@
 ---
 title: Walkthrough Building your first USSD app
 # icon: creative
-prev: ./walkthroughfirstapp
+prev: ./menus
 next: ./emulator
 ---
 

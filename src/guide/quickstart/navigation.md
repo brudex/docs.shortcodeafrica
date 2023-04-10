@@ -2,7 +2,7 @@
 title: Menu navigation 
 # icon: creative
 prev: ./menus
-next: ./actions
+next: ./walkthroughfirstapp
 ---
 <!-- ## quick way to add menu -->
 
