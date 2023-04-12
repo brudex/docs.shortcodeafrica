@@ -1,8 +1,8 @@
 ---
 title: Adding menus
 # icon: creative
-prev: false
-next: ./actions
+prev: /createapp
+next: ./navigation
 ---
 <!-- ## quick way to add menu -->
 ### 1. [login into your Account ](https://shortcodeafrica.com/app-list)
