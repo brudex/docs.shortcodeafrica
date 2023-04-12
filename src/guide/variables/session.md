@@ -5,8 +5,6 @@ prev: false
 next: ./menu
 ---
 
-# [Workflow with Shortcodeafrica](https://app.tango.us/app/workflow/2ff59c95-56de-4c36-8de6-972b20cfb30b?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
-
 ---
 
 <table>
