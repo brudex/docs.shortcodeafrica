@@ -1,11 +1,11 @@
 ---
 title: On Premise Deployment
-prev: false
-next: ./walkthroughfirstapp
+prev: ./connectingyourapp
+next: false
 --- 
 
-
-- Moving your app to production
-    - Getting a USSD shortcode for your app
-    - Connecting your app to a shortcode provider
-    - Deploying in your own environment
+### Contact Us
+- To deploy the solution in your on cloud or server archecture. You can send a mail to the following support channels  production
+    - info@shortcodeafrica.com
+    - support@shortcodeafrica.com 
+    - info@cachetechs.com.
