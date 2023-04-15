@@ -1,6 +1,6 @@
 ---
 title: Naming your Menus
-prev: false
+prev: ./addmenu
 next: ./menunavigation
 ---
 ## Give your Menu a Name
@@ -12,7 +12,7 @@ next: ./menunavigation
   
 ## Naming Convention
   It is recommended to name your menus using camel case nomencleture. Long names with clearer understanding should be more favoured than shorter incoherent names. The following are examples of good menu identifiers
-  ### E.g. 
+  ### E.g. Good Menu Identifiers (Clarity over short names)
 
   - `mainMenu`, 
   - `accountNumberMenu`, 

@@ -5,11 +5,17 @@ prev: ./walkthroughfirstapp
 next: false
 ---
 
+The results of every action is appended to `this.actionResults` object. The action results can then be retrieved with  
+`this.actionResults.actionName`. 
 
-
-- Code Recipes
-    - Check if user is registered on first dial
-    - Set a session variable and retrieve it javascript
-    - Retrieve an action result in code
-    - Branching to a different menu from code
-    - Getting the entered value for a menu
+```javascript  
+let userAccountsResults = this.actionResults['userAccountsRestApiCall']; //results from api call action
+if(typeof userAccountsResults == 'string'){ //if results are returned as string 
+    userAccountsResults = JSON.parse(userAccountsResults); //convert to javascript array
+} 
+if(userAccountsResults.length > 0){
+    this.goto('showAccountMenu');
+}else{
+    this.goto('noAccountsFoundMenu');
+}
+```
