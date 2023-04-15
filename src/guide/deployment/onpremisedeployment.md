@@ -1,6 +1,6 @@
 ---
 title: On Premise Deployment
-prev: ./connectingyourapp
+prev: ./connectionyourapp
 next: false
 --- 
 
