@@ -5,20 +5,33 @@ prev: ./menunavigation
 ---
 
 
+<<<<<<< HEAD
 ###  Retrieving input 
 You can retrieve the results of previous inputs and other session values in a menu text using curly brackets around the name of the session variables. By design the egine mustache syntax to translate place holders to their actual values.
+=======
+![Step 1 screenshot](/assets/images/retri/ret.jpg)
+>>>>>>> 149f0fe6e9c1a1590faea867c6b00b2f822fbaf0
 
 ![Retrieve Inputs](/assets/images/retrieveinput/retrieveinput.sessionvars.png)
 
+<<<<<<< HEAD
 The following  session values are constants present in every session. They cannot be set or modified
+=======
+![Step 2 screenshot](/assets/images/retri/ret1.jpg)
+>>>>>>> 149f0fe6e9c1a1590faea867c6b00b2f822fbaf0
 
 1. `session.mobile`  : The mobile number the user used to dial this session
 2. `session.network` : The network operator of the phone number used
 3. `session.sessionId` : The sessionId of the current session
 
+<<<<<<< HEAD
 You can click on the info icon on top of the menu text box to popup the available session values :![info icon](/assets/images/retrieveinput/info.icon.png)
+=======
+![Step 3 screenshot](/assets/images/retri/ret2.jpg)
+>>>>>>> 149f0fe6e9c1a1590faea867c6b00b2f822fbaf0
 
 
+<<<<<<< HEAD
 ### Walkthrough
 
 In the following walkthroughs we are going see an example of how to get user input in a menu text. We will add 3 menus. The first two will collect the user input and the last will retrieve the entered data including some additional session variables i.e mobile and network
@@ -75,3 +88,6 @@ In the following walkthroughs we are going see an example of how to get user inp
 ![Step 9 screenshot](https://images.tango.us/workflows/97267438-0812-4c4a-9717-435fdf470ba5/steps/ae6dcb8f-7961-4728-9a77-84f948cecb23/329f0325-1712-4982-a24d-557fc6283e57.png?crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.3016&fp-z=1.6659&w=1200&mark-x=300&mark-y=347&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTglMkNGRjc0NDImdz02MDAmaD01NyZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw)
 
  
+=======
+![Step 4 screenshot](/assets/images/retri/ret3.jpg)
+>>>>>>> 149f0fe6e9c1a1590faea867c6b00b2f822fbaf0
