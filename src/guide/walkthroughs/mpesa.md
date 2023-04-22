@@ -9,22 +9,22 @@ next: false
 ### 1. [Go to shortcodeafrica.com](https://shortcodeafrica.com/app-list)
 
 
-### 2. Clicking on "Create App" on the side-bar will display the page below to create a Ussd App for eTranzact app.
+### 2. Clicking on "Create App" on the side-bar will display the page below to create a Ussd App for mpesa app.
 
 ![Step 1 screenshot](/assets/images/Mpesa/just.png)
 
 
-### 3. After successfully creating eTranzact money app, navigate to "My Apps" to click on the button circled below to start working on the app.
+### 3. After successfully creating mpesa app, navigate to "My Apps" to click on the button circled below to start working on the app.
 ![Step 2 screenshot](/assets/images/Mpesa/just1.png)
 
 
-### 4.The page below is where the magice happens, click on the blue button in the middle of the page to view a modal for ZEEP menu and navigations.
+### 4.The page below is where the magice happens, click on the blue button in the middle of the page to view a modal for mpesa menu and navigations.
 ![Step 3 screenshot](/assets/images/Mpesa/just2.png)
 
 
 ### 5. The modal below displays four tabs, Menu, Navigation, Actions and Validation.
 
-Menu is where you will see the list when you enter the shortcode for eTranzact B2C. The "MainMenu" at the bottom of the items is the title of the menu and should not include any spaces.
+Menu is where you will see the list when you enter the shortcode for mpesa. The "MainMenu" at the bottom of the items is the title of the menu and should not include any spaces.
 ![Step 5 screenshot](/assets/images/Mpesa/just3.png)
 
 
