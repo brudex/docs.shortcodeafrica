@@ -7,7 +7,7 @@ next: ./retrievingmenuinput
 By design all menus created flow in linear fashion during runtime. Jumping or navigating to different menu screens is done on the **Navigation** tab. Menu avigation allows you to jump to different menu screens based on user input or condition.
 
 
-### 1. Click on the Navigation tab
+### 1. Click on the Navigation tabdddddd
 
 ![Step 1 screenshot](https://images.tango.us/workflows/99c99709-ad68-40cf-9d41-793a137ac5c4/steps/1831afbf-664d-4b99-a905-2d7bcca34208/ed99a21b-f49f-4e83-a935-ab27a7b05ac8.png?crop=focalpoint&fit=crop&fp-x=0.4277&fp-y=0.1613&fp-z=2.4132&w=1200&blend-align=bottom&blend-mode=normal&blend-x=800&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
 

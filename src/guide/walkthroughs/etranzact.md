@@ -47,7 +47,8 @@ This is where you show what each created menu navigates to when entered into the
 ![Step 9 screenshot](/assets/images/justpay/just7.png)
 
 
-### 10. Click on highlight
+### 10. Clicking on the emulator
+When you click on the emulator, it provides you with a virtual experience that simulates how the application will behave and operate on a physical device.
 ![Step 10 screenshot](/assets/images/justpay/just8.png)
 
 
@@ -55,5 +56,6 @@ This is where you show what each created menu navigates to when entered into the
 ![Step 11 screenshot](/assets/images/justpay/just9.png)
 
 
-### 12. Click on highlight
+### 12. Pop-Up menu
+ A popup menu containing the insert menu created for user to make a choice from
 ![Step 12 screenshot](/assets/images/justpay/just10.png)
