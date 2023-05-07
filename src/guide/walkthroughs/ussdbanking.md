@@ -1,8 +1,8 @@
 ---
 title:  Sample USSD banking app
 # icon: creative
-prev: ./walkthroughfirstapp
-next: false
+prev: ./mpesa.md
+next: ./checkregisteration
 ---
 
 
