@@ -3,7 +3,7 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "https://docs.shortcodeafrica.com",
 
   // author: {
   //   name: "Mr.Hope",
@@ -33,10 +33,10 @@ export default hopeTheme({
 
       footer: "Default footer",
 
-      displayFooter: true,
+      displayFooter: false,
 
       metaLocales: {
-        editLink: "Edit this page on GitHub",
+        
       },
     },
 

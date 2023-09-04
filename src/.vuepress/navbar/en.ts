@@ -2,8 +2,7 @@ import { navbar } from "vuepress-theme-hope";
 
 export const enNavbar = navbar([
   // "/",
-  // { text: "Demo", icon: "discover", link: "/demo/" },
-  
+  { text: "Open App", icon: "home", link: "https://shortcodeafrica.com" }
 ]);
  
 
